@@ -10,6 +10,4 @@ npm run deploy
 npm run destroy
 
 # References used during the development of this sample:
-https://github.com/awslabs/aws-lambda-web-adapter
-
-https://github.com/awslabs/aws-lambda-web-adapter/tree/main/examples/expressjs-zip
+https://github.com/vendia/serverless-express
